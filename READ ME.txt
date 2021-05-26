@@ -1,0 +1,18 @@
+This is a journal app without a database sp if you controlled C in the terminal and returned to your journal 
+the app with forget the data and the work u did.
+
+
+to use it
+
+*1 got to command prompt and write
+
+cd (the path you put the folder in) for example cd desktop/Todolist
+
+*2 write nodemon app.js (if you have node.js)
+
+*3 go to chrome and write localhost:3000
+
+*4 you'll find a page home contact us and about us(just for decoration) so to add your journal stuff
+
+write in the search bar localhost:3000/compose
+
